@@ -36,9 +36,9 @@ def anagram_match( s1, s2 ):
 ana1 = "The earthquakes"
 ana2 = "That queer shake"
 
-s1 = string.lowercase
+#s1 = string.lowercase
 
 #print letter_histogram( ana1 )
 #print letter_histogram( ana2 )
 
-print anagram_match( ana1, ana2 )
+#print anagram_match( ana1, ana2 )
