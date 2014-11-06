@@ -33,8 +33,8 @@ def anagram_match( s1, s2 ):
     return False
 
 #ana1 = "The earthquakes1230     ****''''! narlge"
-ana1 = "The earthquakes"
-ana2 = "That queer shake"
+#ana1 = "The earthquakes"
+#ana2 = "That queer shake"
 
 #s1 = string.lowercase
 
